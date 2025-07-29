@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to visit Dr. Hong's website."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**Welcome to visit Dr. Hong's website.**
+<!-- **Welcome to visit Dr. Hong's website.** -->
 
 About Me
 ======

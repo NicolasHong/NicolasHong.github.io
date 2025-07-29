@@ -25,14 +25,12 @@ Work experience
   * Supervisor: Professor I.A. Karimi
 
   
-Skills
+Research Interest
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Process System Engineering
+  * NLP, MILP, MINLP for Process Simulation, Design, and Optimization
+  * AI for Science and Engineering (Property Prediction, Process Control, Optimization)
+* Polyolefin Reaction Engineering
 
 Publications
 ======
