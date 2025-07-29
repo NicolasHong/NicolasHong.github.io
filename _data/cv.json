@@ -1,32 +1,32 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "洪小东 （Nicolas）",
+    "email": "hongxiaodong@zju.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://nicolashong.github.io/",
+    "summary": "Currently employed at HICZJU.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "萧山区平澜路2118号, No. 2118 Pinglan Road, Xiaoshan District",
+      "postalCode": "311200",
+      "city": "杭州, Hangzhou",
+      "countryCode": "CN",
+      "region": "Asia"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=cz7mNZsAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "Xiaodong Hong",
+        "url": "https://orcid.org/0000-0003-3337-0350"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "NicolasHong",
+        "url": "https://github.com/NicolasHong"
       }
     ]
   },
