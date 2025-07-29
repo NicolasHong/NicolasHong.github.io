@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "洪小东 博士 Dr. Nicolas Hong"
+title                    : "洪小东 博士/ Dr. Nicolas Hong"
 title_separator          : "-"
 name                     : &name "洪小东"
 description              : &description "TBD"
@@ -23,13 +23,13 @@ repository               : "nicolashong/nicolashong.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "洪小东, Nicolas"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Currently employed at ZJU-HIC."
+  location         : "Hangzhou"
+  employer         : "ZJU-HIC, Zhejiang University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hongxiaodon (at) zju.edu.cn" 
 
   # Academic websites
   academia         : # URL
