@@ -11,8 +11,12 @@ redirect_from:
 
 About Me
 ======
-Hi, I am Dr. Hong, a young research scholar in ZJU-HIC. 
-大家好，我是洪小东，浙江大学杭州国际科创中心特聘研究员，aka 特聘“牛马”。
+Hi, I am Dr. Hong, a young research scholar in ZJU-HIC. More details can be found in CV. 
+
+
+大家好，我是洪小东，浙江大学杭州国际科创中心特聘研究员，aka 特聘“牛马”。详情查看简历（CV页面）
+
+一句话总结：化学工程背景，会一些流程建模和优化，懂一些机器学习，热衷于了解底层原理和逻辑，数学学得一般，但是觉得很有意思且重要。
 
 Important Notes
 ======
