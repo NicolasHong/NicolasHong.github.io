@@ -52,4 +52,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for Applied Energy, International Journal of Hydrogen Energy, etc. 
+* Young editorial board member of ACTA PETROLEI SINICA (PETROLEUM PROCESSING SECTION) 石油学报（石油加工）青年编委 2025年8月至今
