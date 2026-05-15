@@ -40,6 +40,12 @@ Run a production build without starting the server:
 powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\bundle.ps1 exec jekyll build
 ```
 
+Regenerate the talk map locally after editing `_talks/`:
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\talkmap.ps1
+```
+
 If JavaScript dependencies need to be rebuilt after editing `assets/js/_main.js`, install Node packages and run:
 
 ```bash
