@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "洪小东 博士/ Dr. Nicolas Hong"
+title                    : "Dr. Xiaodong Hong"
 title_separator          : "-"
-name                     : &name "洪小东"
-description              : &description "TBD"
+name                     : &name "Xiaodong Hong"
+description              : &description "Chemical engineering, process systems engineering, optimization, and machine learning."
 url                      : https://nicolashong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nicolashong/nicolashong.github.io"
@@ -23,9 +23,9 @@ repository               : "nicolashong/nicolashong.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "洪小东, Nicolas"
+  name             : "Xiaodong Hong"
   pronouns         : # example: "she/her"  
-  bio              : "Currently employed at ZJU-HIC."
+  bio              : "Research scholar at ZJU-HIC, Zhejiang University."
   location         : "Hangzhou"
   employer         : "ZJU-HIC, Zhejiang University"
   uri              : # URL

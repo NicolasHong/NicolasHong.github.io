@@ -1,27 +1,23 @@
 ---
 permalink: /
-title: "Welcome to visit Dr. Hong's website."
+title: "Welcome to Dr. Hong's website"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<!-- **Welcome to visit Dr. Hong's website.** -->
-
 About Me
 ======
-Hi, I am Dr. Hong, a young research scholar in ZJU-HIC. More details can be found in CV. 
 
-The offical website of our group. http://www.cregroup.zju.edu.cn/index.html
+Hi, I am Dr. Xiaodong Hong, a research scholar at ZJU-HIC, Zhejiang University. My work sits at the intersection of chemical engineering, process systems engineering, optimization, and machine learning. More details can be found on the CV page.
 
-大家好，我是洪小东，浙江大学杭州国际科创中心特聘研究员，aka 特聘“牛马”。详情查看简历（CV页面）
+The official website of our group is [CRE Group](http://www.cregroup.zju.edu.cn/index.html).
 
-一句话总结：化学工程背景，会一些流程建模和优化，懂一些机器学习，热衷于了解底层原理和逻辑，数学学得一般，但是觉得很有意思且重要。
+大家好，我是洪小东，浙江大学杭州国际科创中心特聘研究员。我的研究背景是化学工程，关注流程建模、过程优化和机器学习，也长期对底层原理、数学结构和工程逻辑保持兴趣。更多信息请查看 CV 页面。
 
 Important Notes
 ======
-1. Please feel free to contact me via email, hongxiaodong (at) zju.edu.cn — just replace (at) with @.
-2. I will be attending the 2025 Chemical Processes Towards Net-Zero Emissions in Sep 20-21, 2025. I welcome the opportunity to meet in person and discuss our work. 
 
-
+1. Please feel free to contact me via email: hongxiaodong (at) zju.edu.cn. Just replace `(at)` with `@`.
+2. ...
