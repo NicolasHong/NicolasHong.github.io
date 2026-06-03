@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+  <title id="title">UPGradeMind login screen</title>
+  <desc id="desc">A stylized preview of the UPGradeMind polyolefin intelligence console login screen.</desc>
+  <defs>
+    <linearGradient id="nav" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102d3d"/>
+      <stop offset="1" stop-color="#061b29"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d4050"/>
+      <stop offset="1" stop-color="#246f80"/>
+    </linearGradient>
+    <radialGradient id="pageGlow" cx="62%" cy="16%" r="85%">
+      <stop offset="0" stop-color="#f4eee8"/>
+      <stop offset="0.55" stop-color="#f8fafb"/>
+      <stop offset="1" stop-color="#edf4f7"/>
+    </radialGradient>
+    <filter id="shadow" x="-12%" y="-18%" width="124%" height="140%">
+      <feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#173748" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="1440" height="900" fill="url(#pageGlow)"/>
+  <rect width="1440" height="68" fill="url(#nav)"/>
+  <circle cx="59" cy="34" r="13" fill="#eef5fb" stroke="#a9c1d2" stroke-width="2"/>
+  <circle cx="92" cy="34" r="8" fill="#d5a164" stroke="#5aa4a6" stroke-width="4"/>
+  <text x="110" y="30" fill="#f5f8fb" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700">UPGradeMind</text>
+  <text x="110" y="50" fill="#a8b7c3" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.3">POLYOLEFIN INTELLIGENCE CONSOLE</text>
+  <text x="365" y="39" fill="#d5e0e8" font-family="Arial, sans-serif" font-size="16" font-weight="700">控制台</text>
+  <text x="436" y="39" fill="#d5e0e8" font-family="Arial, sans-serif" font-size="16" font-weight="700">Data</text>
+  <text x="505" y="39" fill="#d5e0e8" font-family="Arial, sans-serif" font-size="16" font-weight="700">Model</text>
+  <text x="587" y="39" fill="#d5e0e8" font-family="Arial, sans-serif" font-size="16" font-weight="700">Process</text>
+  <text x="680" y="39" fill="#d5e0e8" font-family="Arial, sans-serif" font-size="16" font-weight="700">Control</text>
+  <rect x="1345" y="19" width="46" height="30" rx="15" fill="none" stroke="#d8e1e8" stroke-width="2"/>
+  <text x="1355" y="39" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="700">登录</text>
+
+  <g filter="url(#shadow)">
+    <rect x="230" y="315" width="980" height="444" rx="24" fill="#ffffff"/>
+    <clipPath id="clipLeft">
+      <path d="M254 315h489v444H254a24 24 0 0 1-24-24V339a24 24 0 0 1 24-24Z"/>
+    </clipPath>
+    <rect x="230" y="315" width="514" height="444" rx="24" fill="url(#panel)" clip-path="url(#clipLeft)"/>
+    <rect x="260" y="337" width="130" height="38" rx="19" fill="#0f6a7a" opacity="0.28"/>
+    <text x="272" y="363" fill="#0b6476" font-family="Arial, sans-serif" font-size="16" font-weight="700">Secure Access</text>
+    <text x="260" y="418" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="38">UPGradeMind 平台入口</text>
+    <text x="260" y="449" fill="#d9f3fb" font-family="Arial, sans-serif" font-size="16" font-weight="700">欢迎进入聚烯烃科研发智能系统，登录后可使用牌号数据库、预测</text>
+    <text x="260" y="474" fill="#d9f3fb" font-family="Arial, sans-serif" font-size="16" font-weight="700">模型、知识图谱与工艺模拟模块。</text>
+    <text x="260" y="701" fill="#daf4fa" font-family="Arial, sans-serif" font-size="14" font-weight="700">Zhejiang University  ·  Polymer Intelligence Platform  ·  Ultra-</text>
+    <text x="260" y="724" fill="#daf4fa" font-family="Arial, sans-serif" font-size="14" font-weight="700">Polyolefin Grade Mind</text>
+
+    <text x="770" y="366" fill="#052236" font-family="Arial, sans-serif" font-size="26" font-weight="700">账号登录</text>
+    <text x="770" y="407" fill="#052236" font-family="Arial, sans-serif" font-size="16">用户名</text>
+    <rect x="770" y="420" width="412" height="45" rx="9" fill="#ffffff" stroke="#b9cbd7"/>
+    <text x="770" y="498" fill="#052236" font-family="Arial, sans-serif" font-size="16">密码</text>
+    <rect x="770" y="514" width="412" height="45" rx="9" fill="#ffffff" stroke="#b9cbd7"/>
+    <rect x="770" y="580" width="16" height="16" rx="3" fill="#ffffff" stroke="#c7d2da"/>
+    <text x="795" y="594" fill="#052236" font-family="Arial, sans-serif" font-size="15">如账号已登录，允许本次登录并使旧会话下线</text>
+    <rect x="770" y="616" width="412" height="38" rx="19" fill="#0b6173"/>
+    <text x="944" y="641" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="700">登录系统</text>
+    <text x="770" y="685" fill="#526676" font-family="Arial, sans-serif" font-size="14">演示账号：联系管理员。</text>
+    <text x="910" y="728" fill="#718390" font-family="Arial, sans-serif" font-size="15" text-decoration="underline">没有账号？去注册</text>
+  </g>
+
+  <rect x="0" y="858" width="1440" height="42" fill="#e9f0f4"/>
+  <circle cx="59" cy="879" r="9" fill="#f5fbff" stroke="#a7bfce"/>
+  <text x="78" y="878" fill="#667d8e" font-family="Arial, sans-serif" font-size="12">UPGradeMind Developed by Zhejiang University</text>
+  <text x="78" y="896" fill="#667d8e" font-family="Arial, sans-serif" font-size="12">Copyright © 2025 Zhejiang University. All Rights Reserved.</text>
+</svg>

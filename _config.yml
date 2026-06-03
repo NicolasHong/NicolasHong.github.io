@@ -188,6 +188,9 @@ exclude:
   - README
   - tmp
   - vendor
+  - tasks
+  - .jekyll-cache
+  - .mypy_cache
 keep_files:
   - .git
   - .svn
