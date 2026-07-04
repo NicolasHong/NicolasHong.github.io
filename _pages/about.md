@@ -20,4 +20,4 @@ Important Notes
 ======
 
 1. Please feel free to contact me via email: hongxiaodong (at) zju.edu.cn. Just replace `(at)` with `@`.
-2. ...
+2. Our work, "Solving Large-Scale Heat Integration and MINLP Problems via LLM-Driven Adaptive Search", will be presented by the first author Hangrui Yang at [PSE ASIA 2026](https://pseasia2026.org/) on July 7, 2026. The student oral presentation is scheduled for 11:00-11:15 in Session C3, Room D402.
