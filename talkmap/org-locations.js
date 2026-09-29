@@ -58,5 +58,10 @@ var addressPoints = [
     "AI-Driven Polyolefin Process Modeling and Optimization<br />The 9th National Chemical and Biochemical Engineering Annual Meeting / \u7b2c\u4e5d\u5c4a\u5168\u56fd\u5316\u5b66\u5de5\u7a0b\u4e0e\u751f\u7269\u5316\u5de5\u5e74\u4f1a; Dalian, China",
     39.740278,
     122.255833
+  ],
+  [
+    "Modeling and Intelligent Optimization of Polyolefin Process Modelling<br />2026 Chinese YingXing Young Scholar Seminar / 2026\u5e74\u4e2d\u56fd\u5316\u5de5\u5b66\u4f1a\u5e94\u661f\u9752\u5e74\u8bba\u575b; Shanghai, China",
+    31.23,
+    121.47
   ]
 ];
