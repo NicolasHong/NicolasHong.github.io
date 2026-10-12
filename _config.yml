@@ -193,6 +193,13 @@ exclude:
   - tasks
   - .jekyll-cache
   - .mypy_cache
+  # Only the numerical optimization website is intended for publication.
+  - courses/*.pdf
+  - courses/reaction-ai
+  - courses/numerical-optimization/**/*.pdf
+  - courses/numerical-optimization/content
+  - courses/numerical-optimization/*.mjs
+  - courses/numerical-optimization/README.md
 keep_files:
   - .git
   - .svn

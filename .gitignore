@@ -19,5 +19,7 @@ package-lock.json
 
 /tasks
 
-# Ignore courses
-/courses
+# Keep local textbooks and other courses private; publish only these notes.
+/courses/*
+!/courses/numerical-optimization/
+/courses/numerical-optimization/**/*.pdf
