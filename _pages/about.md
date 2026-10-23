@@ -20,4 +20,5 @@ Important Notes
 ======
 
 1. Please feel free to contact me via email: hongxiaodong (at) zju.edu.cn. Just replace `(at)` with `@`.
-2. Our work, "Solving Large-Scale Heat Integration and MINLP Problems via LLM-Driven Adaptive Search", will be presented by the first author Hangrui Yang at [PSE ASIA 2026](https://pseasia2026.org/) on July 7, 2026. The student oral presentation is scheduled for 11:00-11:15 in Session C3, Room D402.
+2. October 23-25, 2026: I will give an oral presentation, "[Modeling and Intelligent Optimization of Polyolefin Process Modelling](/talks/2026-10-23-hong-polyolefin-mesoscience)", at the 2026 Forum on Mesoscience and Process Engineering in Beijing.
+3. Our paper, "[Physics-informed neural networks with orthogonal collocation for chemical kinetics simulation](/publication/2027-01-01-Pu2027)", appears in *Computers & Chemical Engineering*, 216 (2027), article 109938.

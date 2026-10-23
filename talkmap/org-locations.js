@@ -63,5 +63,10 @@ var addressPoints = [
     "Modeling and Intelligent Optimization of Polyolefin Process Modelling<br />2026 Chinese YingXing Young Scholar Seminar / 2026\u5e74\u4e2d\u56fd\u5316\u5de5\u5b66\u4f1a\u5e94\u661f\u9752\u5e74\u8bba\u575b; Shanghai, China",
     31.23,
     121.47
+  ],
+  [
+    "Modeling and Intelligent Optimization of Polyolefin Process Modelling<br />2026 Forum on Mesoscience and Process Engineering / 2026\u5e74\u4ecb\u79d1\u5b66\u4e0e\u8fc7\u7a0b\u5de5\u7a0b\u8bba\u575b; Beijing, China",
+    39.9042,
+    116.4074
   ]
 ];
