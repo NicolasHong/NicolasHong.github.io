@@ -153,9 +153,13 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "custom" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
+  goatcounter:
+    site_code            :  "nicolashong" # Public site code from GoatCounter, not an API token
+    timezone             :  "Asia/Shanghai"
+    public_dashboard     :  false # Publishes a link to the full analytics dashboard
 
 
 # Reading Files

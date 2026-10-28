@@ -1,5 +1,18 @@
 {% include base_path %}
 
+{% if site.analytics.goatcounter.site_code and site.analytics.goatcounter.site_code != "" and page.analytics != false %}
+<div class="page__footer-visits" data-visitor-stats data-site-code="{{ site.analytics.goatcounter.site_code | escape }}" data-time-zone="{{ site.analytics.goatcounter.timezone | default: 'Asia/Shanghai' | escape }}">
+  <span class="page__footer-visits-title">Site visits</span>
+  <dl class="page__footer-visits-metrics">
+    <div><dt>Today</dt><dd data-visitor-today aria-label="Today's visits">&mdash;</dd></div>
+    <div><dt>Total</dt><dd data-visitor-total aria-label="Total visits">&mdash;</dd></div>
+  </dl>
+  {% if site.analytics.goatcounter.public_dashboard %}
+  <a class="page__footer-visits-regions" href="https://{{ site.analytics.goatcounter.site_code | escape }}.goatcounter.com/" target="_blank" rel="noopener noreferrer">Visitor regions <span aria-hidden="true">&nearr;</span></a>
+  {% endif %}
+</div>
+{% endif %}
+
 {% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
 <div class="page__footer-follow">
   <ul class="social-icons">

@@ -55,6 +55,17 @@ npm run build:js
 
 The current custom interaction layer lives in `assets/js/nicolas-polish.js`, so most small UI enhancements do not require rebuilding `main.min.js`.
 
+## Visitor Statistics
+
+The footer can show today's and total site visits using [GoatCounter](https://www.goatcounter.com/). This runs in the visitor's browser and adds no GitHub Actions job. The account and its public counter must be enabled before anything appears on the site:
+
+1. Create a GoatCounter site and set its website URL to this site. Registration and email verification must be completed by the site owner.
+2. In GoatCounter site settings, enable "Allow adding visitor counts on your website". Set the account time zone to Asia/Shanghai so "Today" matches the site.
+3. Set the public site code in the analytics.goatcounter.site_code field in _config.yml (for example, nicolashong, not a password or API token).
+4. For public regional statistics, change GoatCounter's "Dashboard viewable by" setting to everyone, then set analytics.goatcounter.public_dashboard to true. This exposes the full dashboard, not just regions. Leave both private/default if you do not want that.
+
+Counts start when tracking is activated; historical visits cannot be reconstructed. GoatCounter caches the public counts for up to four hours, and ad blockers may prevent some visits from being counted. When site_code is empty, the tracking script and footer counters are omitted.
+
 ## Common Editing Tasks
 
 - Update homepage text: `_pages/about.md`

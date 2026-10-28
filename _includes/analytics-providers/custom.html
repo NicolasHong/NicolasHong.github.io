@@ -1,3 +1,4 @@
-<!-- start custom analytics snippet -->
-
-<!-- end custom analytics snippet -->
+{% if site.analytics.goatcounter.site_code and site.analytics.goatcounter.site_code != "" %}
+<script data-goatcounter="https://{{ site.analytics.goatcounter.site_code | escape }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+<script defer src="{{ '/assets/js/visitor-stats.js' | relative_url }}"></script>
+{% endif %}
